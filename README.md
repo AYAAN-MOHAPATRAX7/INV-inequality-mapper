@@ -1,5 +1,5 @@
 # 🌍 Invisible Inequality Mapper
-
+(https://inv-inequality-mapper.vercel.app/)
 A data-driven interactive dashboard that visualizes regional inequality across key development indicators such as Healthcare, Education, Sanitation, Digital Access, and Safety.
 
 Built to support SDG-focused policy insights, comparison analysis, and action planning.
